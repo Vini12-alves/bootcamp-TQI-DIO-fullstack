@@ -1,0 +1,7 @@
+Comandos CMD:
+cd : navegar entre as pasta 
+dir: mostra conteudo da pasta 
+mkdir: criar pasta 
+echo > : criar arquivo 
+del : deletar arquivo 
+rmdir : deletar pasta 

@@ -1,0 +1,27 @@
+
+Criar chave ssh no git bash:
+comando : ssh-keygen -t ed25519 -C viniibau004@dmail.com
+
+ativar chave :
+comando : eval $(ssh-agent -s)
+
+iniciar git na pasta 
+comando : git init	
+
+clonar repositoria no github  
+comando : git clone "url do remorido remoto"
+
+saber em qua status está o arquivo no repositorio 
+comando :  git status 
+
+adicionar arquivos para serem commitados 
+comando : git add *
+
+adicionar arquivo no repositorio 
+comando: git commit -m ""
+
+mandar arquivos de repositorio local para github
+comando: git push 
+
+puxar arquivos do github 
+comando: git pull 
